@@ -1,6 +1,6 @@
 # Birthday Gift Selector
 
-This interactive program helps the user decide on a birthday gift based on a series of preferences and criteria. It simulates a decision-making tree using conditional logic and outputs a personalized suggestion.
+This interactive program helps the user decide on a birthday gift based on their personal preferences (cost and type of item). It uses conditional logic and outputs a personalized suggestion.
 
 ## How to Run
 
@@ -10,8 +10,8 @@ java BirthdayGiftSelector
 
 ## Topics Covered
 - Conditional statements (`if`, `else if`, `else`)  
-- User input with Scanner  
-- Simple logic branching
+- User Input with Scanner  
+- Simple Logic Branching
 
 ---
 
